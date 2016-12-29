@@ -41,6 +41,3 @@ Generate the static site and push it to its bucket, overwriting the contents:
 Run a mock server locally, i.e. on http://127.0.0.1:4000
 
     bundle exec jekyll serve -s www.example.com
-
-
-
