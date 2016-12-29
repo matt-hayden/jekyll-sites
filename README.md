@@ -27,7 +27,8 @@ Personal organizer for multiple sites built from Jekyll.
 
 ### Usage
 
-Follow the usual directions for Jekyll. Add posts as individual files in _posts.
+Follow the usual directions for Jekyll. Add posts as individual files in ``_posts/``.
+
 1. Add your theme to the Gemfile like so:
 
     ```
